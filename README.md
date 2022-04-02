@@ -1,9 +1,12 @@
 # Instagram
 
-Olá 👋🌎
+### Olá 👋🌎
 
-este é meu projeto para recriar a tela inicial do Instagram 💻📱
+este é meu projeto para recriar a tela inicial do Instagram, este projeto me ajudou a consolidar os conhecimentos em CSS💻📱
 
-projeto da DIO - Digital Innovation One 📚
+Projeto da DIO - Digital Innovation One 📚
 
-especialista: Gabriela Pinheiro 👩
+
+<div align="center">
+    <img src=exemplo.png>
+</div>
